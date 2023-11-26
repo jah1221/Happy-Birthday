@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f3d8c7;
+}
+.container {
+    text-align: center;
+
+}
+h1 {
+    color: #ff6b6b;
+    font-size: 3em;
+    margin-bottom: 20px;
+    
+}
+p {
+    color: black;
+    font-size: 1.5em;
+}
+button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    background-color: #ff6b6b;
+
+}
+#birthdayMessage {
+    
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    color: rgb(168, 0, 0);
+   
+}
